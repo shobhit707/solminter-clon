@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.358" x2="0.5" y2="0.797" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5600b8"/>
+      <stop offset="0.364" stop-color="#8729ff"/>
+      <stop offset="0.682" stop-color="#da00f2"/>
+      <stop offset="0.816" stop-color="#ee25be"/>
+      <stop offset="1" stop-color="#ff6dac"/>
+    </linearGradient>
+    <clipPath id="clip-icon_apply_ido">
+      <rect width="29" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="icon_apply_ido" clip-path="url(#clip-icon_apply_ido)">
+    <g id="Group_1208" data-name="Group 1208" transform="translate(4.573 4.14)">
+      <path id="Path_1153" data-name="Path 1153" d="M4.779,10.321,7.3,11.378a14.834,14.834,0,0,0-.679,2.236l-.1.44,3.621,3.658.436-.095a14.487,14.487,0,0,0,2.215-.686l1.047,2.55a.163.163,0,0,0,.268.053l1.583-1.6a2.652,2.652,0,0,0,.762-2L16.4,14.911c2.931-2.185,5.9-6.017,6.7-12.7a1.106,1.106,0,0,0-.307-.925,1.082,1.082,0,0,0-.915-.315C15.266,1.788,11.468,4.785,9.3,7.735L8.289,7.682a2.6,2.6,0,0,0-1.979.758l-1.583,1.6a.166.166,0,0,0,.052.281Z" transform="translate(-3.119 -0.957)" fill="none" stroke="#4b1d54" stroke-width="1"/>
+      <circle id="Ellipse_148" data-name="Ellipse 148" cx="2" cy="2" r="2" transform="translate(12.467 3.685)" fill="#4b1d54"/>
+      <path id="Path_1155" data-name="Path 1155" d="M4.382,14.33a2.037,2.037,0,0,0-1.035-.083.189.189,0,0,1-.21-.264c.367-.79,1.342-2.378,3.106-1.1a.088.088,0,0,1,0,.131,1.916,1.916,0,0,0-.73,1.569.14.14,0,0,0,.135.135,1.914,1.914,0,0,0,1.569-.714.088.088,0,0,1,.136,0,1.664,1.664,0,0,1,.172,2.163,1.94,1.94,0,0,1-1.3.69,4.568,4.568,0,0,0-2.609.938.188.188,0,0,1-.324-.069A2.979,2.979,0,0,1,4.382,14.33Z" transform="translate(-3.119 3.058)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

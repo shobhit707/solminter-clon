@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.503" gradientTransform="matrix(-0.106, 0.994, -0.983, -0.105, 1.045, 0.055)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5600b8"/>
+      <stop offset="0.364" stop-color="#8729ff"/>
+      <stop offset="0.682" stop-color="#da00f2"/>
+      <stop offset="0.816" stop-color="#ee25be"/>
+      <stop offset="1" stop-color="#ff6dac"/>
+    </radialGradient>
+    <clipPath id="clip-icon_manage">
+      <rect width="29" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="icon_manage" clip-path="url(#clip-icon_manage)">
+    <g id="Group_1207" data-name="Group 1207" transform="translate(24 26) rotate(-180)">
+      <circle id="Ellipse_145" data-name="Ellipse 145" cx="9" cy="9" r="9" transform="translate(0 2)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>
